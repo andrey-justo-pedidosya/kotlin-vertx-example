@@ -1,6 +1,6 @@
-package com.peya.example.e2e
+package com.justo.example.e2e
 
-import com.peya.example.App
+import com.justo.example.App
 import io.vertx.junit5.VertxExtension
 import io.vertx.junit5.VertxTestContext
 import io.vertx.reactivex.core.Vertx

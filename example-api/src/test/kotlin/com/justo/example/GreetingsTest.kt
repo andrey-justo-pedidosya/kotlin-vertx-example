@@ -1,6 +1,6 @@
-package com.peya.example
+package com.justo.example
 
-import com.peya.example.model.Greeting
+import com.justo.example.model.Greeting
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.CsvSource

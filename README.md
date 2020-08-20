@@ -1,21 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/pedidosya">
-  	<img src="https://www.pedidosya.com/careers/images/pedidosya-logo.svg" alt="Markdownify" width="200">
-  </a>
-  <br>
-  <br>
-  example
-  <br>
-</h1>
-<h4 align="center"></h4>
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#dependencies">Dependencies</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#documentation">Documentation</a> •
-  <a href="#faq">FAQ</a>
-</p>
-
 ## Key Features
 
 * Features for our service

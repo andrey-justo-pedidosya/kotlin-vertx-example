@@ -1,6 +1,6 @@
-package com.peya.example
+package com.justo.example
 
-import com.peya.example.rest.greeting
+import com.justo.example.rest.greeting
 import io.vertx.core.AbstractVerticle
 import io.vertx.core.Promise
 import io.vertx.core.Vertx

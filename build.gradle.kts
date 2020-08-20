@@ -81,7 +81,7 @@ jacoco {
 
 allprojects {
     apply(plugin = "idea")
-    group = "com.peya"
+    group = "com.justo"
     version = "1.0.0"
     repositories {
         jcenter()

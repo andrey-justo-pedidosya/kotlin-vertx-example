@@ -21,5 +21,5 @@ dependencies {
 }
 
 application {
-    mainClassName = "com.peya.example.AppKt"
+    mainClassName = "com.justo.example.AppKt"
 }

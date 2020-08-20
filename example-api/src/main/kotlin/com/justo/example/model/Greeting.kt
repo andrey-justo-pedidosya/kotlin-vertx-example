@@ -1,3 +1,3 @@
-package com.peya.example.model
+package com.justo.example.model
 
 data class Greeting(val msg: String)
